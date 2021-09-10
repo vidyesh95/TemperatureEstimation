@@ -1,4 +1,4 @@
-# TemperatureEstimation
+# Temperature Estimation model
 Linear regression using generated data.
 
-Simple Linear regression example.
+A simple Linear regression example.
